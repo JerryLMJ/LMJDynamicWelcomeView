@@ -1,9 +1,15 @@
 //
 //  LMJDynamicWelcomeView.h
-//  DynamicWelcomeWindow
+//  自定义动态引导页
 //
-//  Created by LiMingjie on 16/1/28.
-//  Copyright © 2016年 iOS开发者公会. All rights reserved.
+//  Version:1.0.0
+//
+//  Created by MajorLi on 14/11/17.
+//  Copyright © 2014年 iOS开发者公会. All rights reserved.
+//
+//  iOS开发者公会-技术1群 QQ群号：87440292
+//  iOS开发者公会-技术2群 QQ群号：232702419
+//  iOS开发者公会-议事区  QQ群号：413102158
 //
 
 #import <UIKit/UIKit.h>
